@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evandrorisso/atividade-workflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evandrorisso/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/evandrorisso/atividade-workflow#readme"
 }
